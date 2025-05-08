@@ -15,8 +15,8 @@ bash
 Copy
 Edit
 pip install opencv-python face_recognition cryptography numpy
-git clone https://github.com/your-repo/face-authentication-system.git
-cd face-authentication-system
+git clone https://github.com/shya46/Client_Server_Face_Authentication_System.git
+cd Client_Server_Face_Authentication_System
 
 Usage:
 Run server: python server.py
@@ -40,6 +40,7 @@ Pull requests are welcome! Report issues or contribute improvements.
 Collaborators:
 
 Shriya Jadhav - https://github.com/shya46
+
 Arnav Jain - 
 
 Contact:
